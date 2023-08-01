@@ -7,7 +7,9 @@ date: 2023-07-27
 #GM GM!
 This is another test post, baby!
 
-[﻿View on canvas](https://app.eraser.io/workspace/8xZpRpLE7QDT5qEYiAcs?elements=02hVsL-0GNJH5HKtd1N--A) 
+![image.png](/.eraser/8xZpRpLE7QDT5qEYiAcs___wTf77qiWGYTw7qMLeSi8MTJJJgp2___Tfb8hx_TrXcGyzXhxfQir.png "image.png")
+
+
 
 
 <!--- Eraser file: https://app.eraser.io/workspace/8xZpRpLE7QDT5qEYiAcs --->
